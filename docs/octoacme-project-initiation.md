@@ -36,6 +36,35 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+## Requirements Gathering Template
+Use this template (owned by the Business Analyst) to capture and refine requirements before development begins.
+
+- **Feature / Initiative name**:
+- **Business objective** (what problem does this solve?):
+- **Stakeholders consulted**:
+- **User story** (As a [user], I want [goal] so that [benefit]):
+- **Functional requirements**:
+  1.
+  2.
+- **Non-functional requirements** (performance, security, accessibility, etc.):
+  1.
+  2.
+- **Acceptance criteria** (testable, unambiguous):
+  - [ ]
+  - [ ]
+- **Out of scope**:
+- **Dependencies / assumptions**:
+- **Open questions / risks**:
+- **Reviewed and approved by** (PM, Stakeholder):
+
+## Requirements Gathering Checklist
+- [ ] Stakeholder interviews or workshops completed
+- [ ] Functional and non-functional requirements documented
+- [ ] Acceptance criteria written and confirmed as testable with QA
+- [ ] Requirements reviewed and approved by Product Manager
+- [ ] Scope boundaries and out-of-scope items clearly documented
+- [ ] Requirements added to backlog items or linked from project board
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear

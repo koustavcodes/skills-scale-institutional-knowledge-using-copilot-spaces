@@ -17,8 +17,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA/Testing Specialist: designs and executes test plans, validates acceptance criteria, and coordinates testing handoffs.
+- Release Manager: owns the release schedule, coordinates deployments, and communicates release status to stakeholders.
+- Business Analyst: gathers and refines requirements, bridges stakeholders and technical teams.
+- Technical Writer: authors and maintains documentation, user guides, and release notes.
+- Stakeholders/Advisors: provide subject-matter expertise, approvals, and strategic guidance.
+
+For detailed responsibilities, goals, and interaction models for each role, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +49,12 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## References
+- [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) — detailed role definitions including QA, Release Manager, Business Analyst, and Technical Writer
+- [OctoAcme Project Initiation](octoacme-project-initiation.md) — one-pager template and requirements gathering guide
+- [OctoAcme Project Planning](octoacme-project-planning.md) — backlog, sprint planning, and checklists
+- [OctoAcme Execution & Tracking](octoacme-execution-and-tracking.md) — day-to-day workflows, QA handoff checklist
+- [OctoAcme Release & Deployment](octoacme-release-and-deployment.md) — release types, deployment checklist, and release notes template
+- [OctoAcme Risks & Communication](octoacme-risks-and-communication.md) — risk register and communication cadence
+- [OctoAcme Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) — retrospective process

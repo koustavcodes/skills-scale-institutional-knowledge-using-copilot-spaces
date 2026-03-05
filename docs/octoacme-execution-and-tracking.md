@@ -23,6 +23,18 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+## QA/Testing Handoff Checklist
+Use this checklist when handing off completed work from Developers to QA/Testing Specialist.
+
+- [ ] All acceptance criteria documented and shared with QA
+- [ ] Code merged to the test branch and CI passing
+- [ ] Unit and integration tests written and passing
+- [ ] Test environment provisioned and up to date
+- [ ] Any known edge cases or risks flagged to QA
+- [ ] QA test plan drafted and reviewed
+- [ ] Defects logged in the issue tracker with severity and reproduction steps
+- [ ] QA sign-off obtained before feature is marked Done
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
